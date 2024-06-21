@@ -1,0 +1,7 @@
+C:\Users\sahanan\source\repos\day 3\day 3\bin\Debug\day 3.exe.config
+C:\Users\sahanan\source\repos\day 3\day 3\bin\Debug\day 3.exe
+C:\Users\sahanan\source\repos\day 3\day 3\bin\Debug\day 3.pdb
+C:\Users\sahanan\source\repos\day 3\day 3\obj\Debug\day 3.csproj.AssemblyReference.cache
+C:\Users\sahanan\source\repos\day 3\day 3\obj\Debug\day 3.csproj.CoreCompileInputs.cache
+C:\Users\sahanan\source\repos\day 3\day 3\obj\Debug\day 3.exe
+C:\Users\sahanan\source\repos\day 3\day 3\obj\Debug\day 3.pdb
