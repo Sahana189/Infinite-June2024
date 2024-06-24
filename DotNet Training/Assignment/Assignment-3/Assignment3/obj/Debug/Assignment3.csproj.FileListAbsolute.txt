@@ -1,0 +1,7 @@
+C:\batch 2024 June\DotNet Training\Assignment\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\batch 2024 June\DotNet Training\Assignment\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\batch 2024 June\DotNet Training\Assignment\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\batch 2024 June\DotNet Training\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\batch 2024 June\DotNet Training\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\batch 2024 June\DotNet Training\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\batch 2024 June\DotNet Training\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
