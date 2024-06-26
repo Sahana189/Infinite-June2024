@@ -1,7 +1,0 @@
-C:\Users\sahanan\source\repos\friday\friday\bin\Debug\friday.exe.config
-C:\Users\sahanan\source\repos\friday\friday\bin\Debug\friday.exe
-C:\Users\sahanan\source\repos\friday\friday\bin\Debug\friday.pdb
-C:\Users\sahanan\source\repos\friday\friday\obj\Debug\friday.csproj.AssemblyReference.cache
-C:\Users\sahanan\source\repos\friday\friday\obj\Debug\friday.csproj.CoreCompileInputs.cache
-C:\Users\sahanan\source\repos\friday\friday\obj\Debug\friday.exe
-C:\Users\sahanan\source\repos\friday\friday\obj\Debug\friday.pdb
