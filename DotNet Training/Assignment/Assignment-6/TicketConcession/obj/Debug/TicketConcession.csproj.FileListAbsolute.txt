@@ -1,0 +1,6 @@
+C:\batch 2024 June\DotNet Training\Assignment\Assignment-6\TicketConcession\bin\Debug\TicketConcession.dll
+C:\batch 2024 June\DotNet Training\Assignment\Assignment-6\TicketConcession\bin\Debug\TicketConcession.pdb
+C:\batch 2024 June\DotNet Training\Assignment\Assignment-6\TicketConcession\obj\Debug\TicketConcession.csproj.AssemblyReference.cache
+C:\batch 2024 June\DotNet Training\Assignment\Assignment-6\TicketConcession\obj\Debug\TicketConcession.csproj.CoreCompileInputs.cache
+C:\batch 2024 June\DotNet Training\Assignment\Assignment-6\TicketConcession\obj\Debug\TicketConcession.dll
+C:\batch 2024 June\DotNet Training\Assignment\Assignment-6\TicketConcession\obj\Debug\TicketConcession.pdb
