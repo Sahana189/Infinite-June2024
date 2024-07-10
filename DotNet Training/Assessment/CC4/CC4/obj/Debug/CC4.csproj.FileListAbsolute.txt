@@ -1,0 +1,7 @@
+C:\batch 2024 June\DotNet Training\Assessment\CC4\CC4\bin\Debug\CC4.exe.config
+C:\batch 2024 June\DotNet Training\Assessment\CC4\CC4\bin\Debug\CC4.exe
+C:\batch 2024 June\DotNet Training\Assessment\CC4\CC4\bin\Debug\CC4.pdb
+C:\batch 2024 June\DotNet Training\Assessment\CC4\CC4\obj\Debug\CC4.csproj.AssemblyReference.cache
+C:\batch 2024 June\DotNet Training\Assessment\CC4\CC4\obj\Debug\CC4.csproj.CoreCompileInputs.cache
+C:\batch 2024 June\DotNet Training\Assessment\CC4\CC4\obj\Debug\CC4.exe
+C:\batch 2024 June\DotNet Training\Assessment\CC4\CC4\obj\Debug\CC4.pdb
