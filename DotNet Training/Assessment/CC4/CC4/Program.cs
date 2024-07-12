@@ -7,7 +7,7 @@ namespace CC4
     {
         static void Main(string[] args)
         {
-            string filePath = "C:\\batch 2024 June\\DotNet Training\\Assessment\\CC4\\Sahana.txt";
+            string filePath = "C:\\batch 2024 June\\DotNet Training\\Assessment\\CC4\\Sonu.txt";
             string textToAppend = "Welcome to Infinite Computer Solutions";
 
             AppendTextToFile(filePath, textToAppend);

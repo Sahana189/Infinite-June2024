@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CC4.EmployeeDetails</StartupObject>
+    <StartupObject>CC4.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
