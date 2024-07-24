@@ -1,0 +1,7 @@
+C:\batch 2024 June\SQL\Assessment\EmployeemanagementCC2\EmployeemanagementCC2\bin\Debug\EmployeemanagementCC2.exe.config
+C:\batch 2024 June\SQL\Assessment\EmployeemanagementCC2\EmployeemanagementCC2\bin\Debug\EmployeemanagementCC2.exe
+C:\batch 2024 June\SQL\Assessment\EmployeemanagementCC2\EmployeemanagementCC2\bin\Debug\EmployeemanagementCC2.pdb
+C:\batch 2024 June\SQL\Assessment\EmployeemanagementCC2\EmployeemanagementCC2\obj\Debug\EmployeemanagementCC2.csproj.AssemblyReference.cache
+C:\batch 2024 June\SQL\Assessment\EmployeemanagementCC2\EmployeemanagementCC2\obj\Debug\EmployeemanagementCC2.csproj.CoreCompileInputs.cache
+C:\batch 2024 June\SQL\Assessment\EmployeemanagementCC2\EmployeemanagementCC2\obj\Debug\EmployeemanagementCC2.exe
+C:\batch 2024 June\SQL\Assessment\EmployeemanagementCC2\EmployeemanagementCC2\obj\Debug\EmployeemanagementCC2.pdb
