@@ -1,0 +1,7 @@
+C:\batch 2024 June\ADO.Net\Assignment\ADOassignment\ADOassignment\bin\Debug\ADOassignment.exe.config
+C:\batch 2024 June\ADO.Net\Assignment\ADOassignment\ADOassignment\bin\Debug\ADOassignment.exe
+C:\batch 2024 June\ADO.Net\Assignment\ADOassignment\ADOassignment\bin\Debug\ADOassignment.pdb
+C:\batch 2024 June\ADO.Net\Assignment\ADOassignment\ADOassignment\obj\Debug\ADOassignment.csproj.AssemblyReference.cache
+C:\batch 2024 June\ADO.Net\Assignment\ADOassignment\ADOassignment\obj\Debug\ADOassignment.csproj.CoreCompileInputs.cache
+C:\batch 2024 June\ADO.Net\Assignment\ADOassignment\ADOassignment\obj\Debug\ADOassignment.exe
+C:\batch 2024 June\ADO.Net\Assignment\ADOassignment\ADOassignment\obj\Debug\ADOassignment.pdb
