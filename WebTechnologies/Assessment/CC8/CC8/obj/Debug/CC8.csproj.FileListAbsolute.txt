@@ -1,0 +1,7 @@
+C:\batch 2024 June\WebTechnologies\Assessment\CC8\CC8\bin\Debug\CC8.exe.config
+C:\batch 2024 June\WebTechnologies\Assessment\CC8\CC8\bin\Debug\CC8.exe
+C:\batch 2024 June\WebTechnologies\Assessment\CC8\CC8\bin\Debug\CC8.pdb
+C:\batch 2024 June\WebTechnologies\Assessment\CC8\CC8\obj\Debug\CC8.csproj.AssemblyReference.cache
+C:\batch 2024 June\WebTechnologies\Assessment\CC8\CC8\obj\Debug\CC8.csproj.CoreCompileInputs.cache
+C:\batch 2024 June\WebTechnologies\Assessment\CC8\CC8\obj\Debug\CC8.exe
+C:\batch 2024 June\WebTechnologies\Assessment\CC8\CC8\obj\Debug\CC8.pdb

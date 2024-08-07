@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Odd Number or Even Number Checker</title>
+</head>
+<body>
+    <h2>OddNumber or EvenNumber Checker</h2>
+    <div id="output"></div>
+
+    <script>
+        for (let i = 0; i <= 15; i++) {
+            if (i % 2 === 0) {
+                document.getElementById('output').innerHTML += i + " is even<br>";
+            } else {
+                document.getElementById('output').innerHTML += i + " is odd<br>";
+            }
+        }
+    </script>
+</body>
+</html>
